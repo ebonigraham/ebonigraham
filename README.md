@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**ebonigraham/ebonigraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hey y'all 👋
+- I am an inspiring Cloud Security Engineer 
+- 🌱 I’m currently learning Azure and Python!
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I terminated my first RJ45 at 12 years old to update my Myspace account
+- 📫 How to reach me:
+<!-- Social Media Links -->
+<a href="https://x.com/Eboni_Graham" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="36" height="36"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/ebonigraham" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram/E1306C" alt="Instagram" width="36" height="36"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/ebonigraham" target="_blank">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="36" height="36"/>
+</a>
+<br/>
