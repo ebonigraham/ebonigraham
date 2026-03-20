@@ -1,6 +1,6 @@
 ## Hey y'all 👋
-- I am an inspiring Cloud Security Engineer 
-- 🌱 I’m currently learning Azure and Python!
+- I am an inspiring Cloud Security Engineer who would love a taste of Enterprise Help Desk
+- 🌱 I’m currently learning Azure, Python, & AD!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I terminated my first RJ45 at 12 years old to update my Myspace account
 - 📫 How to reach me:
